@@ -1,14 +1,14 @@
 # Sorting-Algorithms-Visualizer
 Sorting algorithms visualizer using Win32 API and SFML library
 
-# project not finished yet
+** project not yet finished
 
 Currently implemented algorithms:
-    * bubble sort
-    * selection sort
-    * insertion sort
-    * quicksort
-    * merge sort
+* bubble sort
+* selection sort
+* insertion sort
+* quicksort
+* merge sort
 
 
 Current application images:
